@@ -1,6 +1,6 @@
 cask "fulgur" do
-  version "0.11.0"
-  sha256 "98e0dfdf42ab93148d42addab2fc96c9170ea41c1a63af5f63d744cf481a1f42"
+  version "0.12.0"
+  sha256 "fe65392382ec743659124ccbc504951e850a950fa6078c29192ebcbac35619e8"
    
   url "https://github.com/fulgur-app/Fulgur/releases/download/v#{version}/Fulgur-v#{version}-macos-aarch64.dmg"
   name "Fulgur"
